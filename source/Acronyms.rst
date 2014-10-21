@@ -3,8 +3,6 @@ Acronyms
 
 Should we rather explain these and not just tell what the letters mean?
 
-Would probably be more newb friendly.
-
 
 AA: Anti-Aliasing  
 
